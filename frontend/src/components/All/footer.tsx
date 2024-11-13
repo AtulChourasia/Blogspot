@@ -12,7 +12,7 @@ export default function Footer() {
 
       <div className="xsm:text-center md:text-left border-white md:w-1/2 lg:2/3 xl:w-1/3">
         <Title
-          text="BlogSpot 2024 -- By Atul."
+          text="BlogSpot 2024"
           className="dark:text-zinc text-black font-title tracking-wide font-noto sm:text-xl lg:text-2xl"
         />
       </div>
