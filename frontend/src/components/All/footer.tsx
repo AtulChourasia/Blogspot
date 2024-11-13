@@ -18,19 +18,19 @@ export default function Footer() {
       </div>
 
         <div className="flex justify-center ml-4 mr-4 w-1/2  mx-full  ">
-          <Link className="ml-4 mr-4" to={"https://github.com/AtulChourasia"}>
+          <Link className="ml-4 mr-4" to={"https://github.com/"}>
             <Image
               src={github}
               className="invert dark:invert-0 hover:opacity-70"
             />
           </Link>
-          <Link className="ml-4 mr-4" to={"https://www.linkedin.com/in/AtulChourasia/"}>
+          <Link className="ml-4 mr-4" to={"https://www.linkedin.com/"}>
             <Image
               src={linkedin}
               className="invert dark:invert-0 hover:opacity-70"
             />
           </Link>
-          <Link className="ml-4 mr-4" to={"https://x.com/AtulChourasia10"}>
+          <Link className="ml-4 mr-4" to={"https://x.com/"}>
             <Image src={x} className="invert dark:invert-0 hover:opacity-70" />
           </Link>
           
